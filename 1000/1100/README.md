@@ -40,7 +40,7 @@ The serverless model differs from VMs and containers in that you only pay for th
 
 Here's a diagram comparing the three compute approaches we've covered.
 
-[ IMAGE ATTACHED  ]
+[IMAGE ATTACHED](https://github.com/vanHeemstraSystems/azure-fundamentals-headstart/raw/main/1000/1100/2-vm-vs-container-vs-serverless.png)
 
 ## Storage
 Most devices and applications read and/or write data. Here are some examples:
