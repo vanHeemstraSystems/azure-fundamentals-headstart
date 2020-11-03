@@ -13,40 +13,42 @@ Based on "Cloud Concepts - Principles of cloud computing" at https://docs.micros
 
 Based on "Create an Azure account" at https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
 
-## 1200 - 
+## 1200 - Core Cloud Services - Introduction to Azure
 
-## 1300 - 
+Based on "Core Cloud Services - Introduction to Azure" https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/
 
-## 1400 - 
+## 1300 - Core Cloud Services - Azure architecture and service guarantees
 
-## 1500 - 
+Based on "Core Cloud Services - Azure architecture and service guarantees" at https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/
 
-## 1600 - 
+## 1400 - Core Cloud Services - Manage services with the Azure portal
 
-## 1700 - 
+Based on "Core Cloud Services - Manage services with the Azure portal" at https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
 
-## 1800 - 
+## 1500 - Core Cloud Services - Azure compute options
 
-## 1900 - 
+Based on "Core Cloud Services - Azure compute options" at https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/
 
-## 2000 - 
+## 1600 - Core Cloud Services - Azure data storage options
 
-## 2100 - 
+Based on "Core Cloud Services - Azure data storage options" at https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/
 
-## 2200 - 
+## 1700 - Core Cloud Services - Azure networking options
 
-## 2300 - 
+Based on "Core Cloud Services - Azure networking options" at https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/
 
-## 2400 - 
+## 1800 - Security, responsibility, and trust in Azure
 
-## 2500 - 
+Based on "Security, responsibility, and trust in Azure" at https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/
 
-## 2600 - 
+## 1900 - Apply and monitor infrastructure standards with Azure Policy
 
-## 2700 - 
+Based on "Apply and monitor infrastructure standards with Azure Policy" at https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/
 
-## 2800 - 
+## 2000 - Control and organize Azure resources with Azure Resource Manager
 
-## 2900 - 
+Based on "Control and organize Azure resources with Azure Resource Manager" at https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/
 
-## 3000 - 
+## 2100 - Predict costs and optimize spending for Azure
+
+Based on "Predict costs and optimize spending for Azure" at https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/
