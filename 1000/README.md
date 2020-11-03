@@ -1,6 +1,6 @@
-# 1000 - Cloud Concepts - Principles of cloud computing
+# 1000 - Cloud Concepts - Principles of Cloud Computing
 
-Based on "Cloud Concepts - Principles of cloud computing" at https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
+Based on "Cloud Concepts - Principles of Cloud Computing" at https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
 
 Explore the core concepts of cloud computing and how it can help your business.
 
