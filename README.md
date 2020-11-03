@@ -5,9 +5,9 @@ Based on "Azure Fundamentals" at https://docs.microsoft.com/en-us/learn/paths/az
 
 12 Modules
 
-## 1000 - Cloud Concepts - Principles of cloud computing
+## 1000 - Cloud Concepts - Principles of Cloud Computing
 
-Based on "Cloud Concepts - Principles of cloud computing" at https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
+Based on "Cloud Concepts - Principles of Cloud Computing" at https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
 
 ## 1100 - Create an Azure Account
 
