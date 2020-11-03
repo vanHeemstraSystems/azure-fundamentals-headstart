@@ -9,9 +9,9 @@ Based on "Azure Fundamentals" at https://docs.microsoft.com/en-us/learn/paths/az
 
 Based on "Cloud Concepts - Principles of cloud computing" at https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
 
-## 1100 - Create an Azure account
+## 1100 - Create an Azure Account
 
-Based on "Create an Azure account" at https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
+Based on "Create an Azure Account" at https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
 
 ## 1200 - Core Cloud Services - Introduction to Azure
 
